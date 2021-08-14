@@ -1,0 +1,8 @@
+/* Set a background image by replacing the URL below */
+body {
+    background: url('https://media.istockphoto.com/photos/digital-cyberspace-with-particles-and-digital-data-network-future-picture-id1216520813?b=1&k=6&m=1216520813&s=170667a&w=0&h=r5AEN1OVbcNdj7USwUHaVYjh5X96cQvg4zpVIAs_iOM=') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
